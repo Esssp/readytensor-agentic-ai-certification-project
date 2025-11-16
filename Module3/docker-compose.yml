@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  orchestrator:
+    image: readytensor/orchestrator:latest
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - ENV=production
