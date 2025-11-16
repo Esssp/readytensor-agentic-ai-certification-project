@@ -30,12 +30,13 @@ readytensor-agentic-ai-certification-project/
 │── Module1/
 │── Module2/
 │── Module3/
-│── Reports/
-│── PPT/
-│── FinalSubmission/
 │── Assets/
+│── FinalSubmission/
+│── Agentic ai ppt.pdf
+│── demo_transcript.txt
+│── loom_script.txt
+│── youtube_description.txt
 │── PUBLICATION.md
-│── LICENSE
 │── README.md
 Each module folder contains the corresponding project artefacts, including code scaffolds, reports, and presentation materials.
 - Publication
