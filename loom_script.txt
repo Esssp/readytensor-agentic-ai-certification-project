@@ -1,0 +1,31 @@
+Loom / Demo Recording Script — Ready Tensor Projects
+
+Total length target: 3-5 minutes per module (recommended). Record three short demos or one combined 8-12 minute demo.
+
+Intro (00:00-00:30)
+- Quick greeting: "Hi, I'm <Your Name>. This demo shows three module projects for the Ready Tensor Agentic AI Certification."
+- One-sentence summary of each module.
+
+Module 1 demo (00:30-02:00)
+- Show GitHub repo files.
+- Run the Streamlit app (local) and upload a sample PDF.
+- Ask a sample question and show retrieval + generated answer.
+- Mention evaluation notes and how to re-run tests.
+
+Module 2 demo (02:00-04:00)
+- Show orchestrator.py running locally.
+- Demonstrate planner -> retriever -> reader -> verifier outputs.
+- Explain how you would convert agents to services.
+
+Module 3 demo (04:00-06:00)
+- Show Dockerfile and docker-compose up.
+- Explain CI sample and monitoring suggestions.
+- End with contact / submission instructions.
+
+Closing (last 20s)
+- Mention GitHub link and uploaded artifacts.
+- Thank the reviewer and give contact info.
+
+Tips:
+- Keep your screen tidy, use a clear terminal font, and show the command you run.
+- For YouTube, add the repo link in video description and timestamps.

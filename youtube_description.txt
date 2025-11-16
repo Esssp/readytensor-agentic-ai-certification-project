@@ -1,0 +1,17 @@
+YouTube Demo Description
+
+Ready Tensor — Agentic AI Certification Project Demos
+Modules included:
+- Module 1: RAG-Powered AI App — Streamlit scaffold and report
+- Module 2: Multi-Agent System — Orchestrator demo
+- Module 3: Productionization — Docker + k8s + CI sample
+
+Repo Link & artifacts: <https://ai.invideo.io/watch/vBr8J9aOnr_>
+Timestamps:
+00:00 Intro
+00:30 Module 1 - RAG App
+02:00 Module 2 - Multi-Agent
+04:00 Module 3 - Productionization
+06:00 Closing
+
+Contact: <your-email@example.com>

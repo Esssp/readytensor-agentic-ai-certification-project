@@ -1,0 +1,6 @@
+Demo transcript (concise narration to use while recording)
+"Hi, I'm <Your Name>. Here are the three module projects for the Ready Tensor Agentic AI certification.
+Module 1 is a RAG assistant. I'll run the Streamlit scaffolding, upload sample docs, and ask a question.
+Module 2 shows a multi-agent orchestrator. I'll run orchestrator.py and explain each agent's role.
+Module 3 shows production readiness artifacts like Dockerfile, docker-compose, and a sample GitHub Actions CI.
+All code and the PPT are in the attached repo. Thank you for watching."
