@@ -1,0 +1,3 @@
+# Minimal deps for scaffolding
+flask
+requests
